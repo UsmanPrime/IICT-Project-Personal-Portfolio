@@ -1,30 +1,45 @@
-Cyber Security & Web Developer Portfolio
-Usman Ibrahim | C++ | Web Development | Security Enthusiast
-🚀 Professional Portfolio | Web Developer | Security-Focused Coder
+# 🚀 Usman Ibrahim - Cybersecurity & Web Developer Portfolio
 
-Welcome to my portfolio showcasing my expertise in C++ programming, web development (HTML, CSS, JavaScript), and cybersecurity principles. This responsive website demonstrates my ability to build secure, efficient, and visually appealing web applications.
+Welcome to the repository for my professional portfolio! This responsive website highlights my skills in C++ programming, frontend web development, and my strong focus on cybersecurity principles. 
 
-Key Features
-✅ Modern & Responsive UI: Clean design with dark/light mode toggle
-✅ Interactive Elements: Dynamic typing animation, smooth scrolling, and form handling
-✅ Project Showcase:
+---
 
-Technical Documentation (HTML & CSS)
+## 🌟 Overview
 
-Interactive Hobby Management System (JavaScript)
+This portfolio serves as a central hub for my projects and skills, demonstrating my ability to build clean, secure, and responsive web applications. It includes interactive elements, a modern UI, and dedicated sections for my projects and technical documentation.
 
-Security Vulnerability Scanner Concept (C++/Web Integration)
-✅ Skills Highlight:
+## ✨ Key Features
 
-C++ Programming (System Security, Algorithms)
+- **Modern & Responsive UI**: Built with HTML5 and CSS3, featuring a clean design that adapts to all devices.
+- **Interactive Elements**: Dynamic typing animations, smooth scrolling, and functional form handling using ES6+ JavaScript.
+- **Project Showcase**:
+  - 📄 **Technical Documentation**: Highlighting my ability to document code clearly (HTML & CSS).
+  - 🛠️ **Interactive Hobby Management System**: Built with JavaScript to manage tasks/hobbies dynamically.
+  - 🔐 **Security Vulnerability Scanner Concept**: A concept demonstrating the integration of C++ for system security and web frontends.
+- **Security Focused**: Emphasizing secure coding practices and efficient algorithm design.
 
-Frontend Web Dev (HTML5, CSS3, JavaScript)
+## 🛠️ Technologies Used
 
-Security Tools (Kali Linux, VS Code)
+### Frontend & Web Tech
+- **Languages**: HTML5, CSS3, JavaScript (ES6+)
+- **Styling**: CSS Flexbox, CSS Grid, Custom Variables
 
-Technologies Used
-💻 Languages: C++, JavaScript (ES6+)
-🎨 Frontend: HTML5, CSS3 (Flexbox, Grid, Variables)
-🔧 Tools: VS Code, Git, Linux
+### Core Programming & Security
+- **Languages**: C++
+- **Concepts**: System Security, Algorithms, Secure Coding Practices
 
-This portfolio reflects my passion for secure coding practices, efficient algorithms, and clean web development. Let's connect for collaborations on web security, C++ projects, or full-stack development!
+### Tools & Environment
+- **Development**: VS Code, Git & GitHub
+- **OS**: Kali Linux, Windows
+
+## 🌐 Live Preview
+
+Explore the live portfolio and check out the interactive tools and secure configurations setups.
+
+---
+
+## 🤝 Let's Connect
+
+I am always open to discussing web security, C++ projects, or full-stack development. Feel free to reach out or connect with me!
+
+- **GitHub**: [@UsmanPrime](https://github.com/UsmanPrime)
